@@ -1,4 +1,4 @@
-all: synopsis dissertation
+all: dissertation
 
 dissertation:
 	#	$(MAKE) -C Dissertation

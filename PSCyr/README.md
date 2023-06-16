@@ -17,7 +17,7 @@ PSCyr включает следующие шрифты:
   * Lazurski в начертании Regular
   * TimesNewRomanPSMT в начертаниях Regular, Bold, Italic, Bold Italic
 * Рубленые шрифты:
-  * ArialMT в начертаниях Regular, Bold, Italic, Bold Italic и Black (сверхжирный)
+  * FreeSansMT в начертаниях Regular, Bold, Italic, Bold Italic и Black (сверхжирный)
   * TextbookPSCyr в начертаниях Regular, Bold, Italic
   * MagazinePSCyr в начертаниях Regular, Bold, Italic
 * Моноширинные шрифты:
